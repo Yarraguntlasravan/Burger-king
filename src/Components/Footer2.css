@@ -1,0 +1,29 @@
+#footer2-div{
+    height: 70px;
+    background-color: rgb(80, 35, 20);
+    margin-top: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.779);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+
+}
+#bottom-nav{
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    line-height: 23px;
+    position: sticky;
+    bottom: 0px;
+    width: 100%;
+    background-color: #ebe2d3;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: rgb(80, 35, 20);
+    /* margin-top: 270px; */
+}
